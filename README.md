@@ -36,17 +36,17 @@ This repository contains Java-based hands-on exercises covering Data Structures 
 
 ### Spring Framework / Spring Boot
 
-19. Exercise-19-BasicSpringApplication  
-20. Exercise-20-SpringDependencyInjection  
-21. Exercise-21-SpringAOPLogging  
-22. Exercise-22-MavenConfiguration  
-23. Exercise-23-SpringIoCContainer  
-24. Exercise-24-AnnotationBasedConfiguration  
-25. Exercise-25-ConstructorSetterInjection  
-26. Exercise-26-BasicSpringAOP  
-27. Exercise-27-SpringBootLibraryManagement  
-28. Exercise-28-SpringDataJPAQuickExample  
-29. Exercise-29-SpringBootLibraryManagementSystem  
+19. Exercise-1-BasicSpringApplication  
+20. Exercise-2-SpringDependencyInjection  
+21. Exercise-3-SpringAOPLogging  
+22. Exercise-4-MavenConfiguration  
+23. Exercise-5-SpringIoCContainer  
+24. Exercise-6-AnnotationBasedConfiguration  
+25. Exercise-7-ConstructorSetterInjection  
+26. Exercise-8-BasicSpringAOP  
+27. Exercise-9-SpringBootLibraryManagement  
+28. Exercise-10-SpringDataJPAQuickExample  
+29. Exercise-12-SpringBootLibraryManagementSystem  
 
 ---
 
