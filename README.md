@@ -1,10 +1,22 @@
 # Cognizant Hands-On Exercises
 
-This repository contains Java-based hands-on exercises covering Data Structures and Algorithms (DSA), Design Patterns, and Spring Framework / Spring Boot. These exercises were implemented as part of the Cognizant training program.
+This repository contains Java-based hands-on exercises covering Data Structures and Algorithms (DSA), Design Patterns, Spring Framework / Spring Boot, and PL/SQL programs. These exercises were implemented as part of the Cognizant training program.
 
 ---
 
 ## 📂 Repository Structure
+
+### Week 1 – PL/SQL Programming
+
+30. Exercise-1-ControlStructures  
+31. Exercise-2-Error Handling  
+32. Exercise-3-Stored Procedures  
+33. Exercise-4-Functions  
+34. Exercise-5-Triggers  
+35. Exercise-6-Cursors  
+36. Exercise-7-Packages  
+
+---
 
 ### Data Structures and Algorithms
 
@@ -53,6 +65,7 @@ This repository contains Java-based hands-on exercises covering Data Structures 
 ## 🛠 Technologies Used
 
 - Java  
+- PL/SQL  
 - Spring Framework  
 - Spring Boot  
 - Spring Data JPA  
@@ -100,6 +113,17 @@ This repository contains Java-based hands-on exercises covering Data Structures 
 - Spring Data JPA  
 - H2 In-Memory Database  
 - CRUD Operations  
+
+---
+
+### PL/SQL Programming
+- Control Structures  
+- Error Handling  
+- Stored Procedures  
+- Functions  
+- Triggers  
+- Cursors  
+- Packages  
 
 ---
 
