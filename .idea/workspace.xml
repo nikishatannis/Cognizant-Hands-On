@@ -2,11 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="229420b5-81a0-42fa-9f71-f3b58dd4873c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cognizant-Hands-On.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/src/main/java/com/cognizant/EmployeeManagementSystemApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/src/main/java/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/src/main/java/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/src/test/java/com/cognizant/EmployeeManagementSystemApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/src/main/java/com/cognizant/EmployeeManagementSystemApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/src/main/java/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/src/main/java/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/src/main/java/repository/DepartmentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/src/main/java/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/src/test/java/com/cognizant/EmployeeManagementSystemApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/src/main/java/com/cognizant/EmployeeManagementSystemApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/src/main/java/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/src/main/java/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/src/main/java/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/src/main/java/repository/DepartmentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/src/main/java/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/src/test/java/com/cognizant/EmployeeManagementSystemApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise-1-Employee Management System/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise-1-Employee Management System/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise-1-Employee Management System/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise-1-Employee Management System/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise-1-Employee Management System/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise-1-Employee Management System/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise-1-Employee Management System/src/main/java/com/cognizant/EmployeeManagementSystemApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise-1-Employee Management System/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise-1-Employee Management System/src/test/java/com/cognizant/EmployeeManagementSystemApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +84,7 @@
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/p.edwardnixon/IdeaProjects/Cognizant-Hands-On&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/p.edwardnixon/IdeaProjects/Cognizant-Hands-On-1/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/p.edwardnixon/IdeaProjects/Cognizant-Hands-On/Exercise-18-DependencyInjectionExample/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
@@ -51,11 +94,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate" />
       <recent name="$PROJECT_DIR$/Exercise-6-LibraryManagementSystem" />
       <recent name="$PROJECT_DIR$/Exercise-2-SearchAlgorithms" />
       <recent name="$PROJECT_DIR$/Exercise-3-SortingCustomerOrders" />
       <recent name="$PROJECT_DIR$/Exercise-1-InventoryManagement" />
-      <recent name="$PROJECT_DIR$/Exercise-4-EmployeeManagementSystem" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main (5)">
