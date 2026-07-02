@@ -8,60 +8,59 @@ This repository contains Java-based hands-on exercises covering Data Structures 
 
 ### Week 1 – PL/SQL Programming
 
-30. Exercise-1-ControlStructures  
-31. Exercise-2-Error Handling  
-32. Exercise-3-Stored Procedures  
-33. Exercise-4-Functions  
-34. Exercise-5-Triggers  
-35. Exercise-6-Cursors  
-36. Exercise-7-Packages  
+1. Exercise-1-ControlStructures
+2. Exercise-2-ErrorHandling
+3. Exercise-3-StoredProcedures
+4. Exercise-4-Functions
+5. Exercise-5-Triggers
+6. Exercise-6-Cursors
+7. Exercise-7-Packages
 
 ---
 
 ### Data Structures and Algorithms
 
-1. Exercise-1-InventoryManagement  
-2. Exercise-2-SearchAlgorithms  
-3. Exercise-3-SortingCustomerOrders  
-4. Exercise-4-EmployeeManagementSystem  
-5. Exercise-5-TaskManagementSystem  
-6. Exercise-6-LibraryManagementSystem  
-7. Exercise-7-FinancialForecasting  
+1. Exercise-1-InventoryManagement
+2. Exercise-2-SearchAlgorithms
+3. Exercise-3-SortingCustomerOrders
+4. Exercise-4-EmployeeManagementSystem
+5. Exercise-5-TaskManagementSystem
+6. Exercise-6-LibraryManagementSystem
+7. Exercise-7-FinancialForecasting
 
 ---
 
 ### Design Patterns
 
-8. Exercise-8-SingletonPatternExample  
-9. Exercise-9-FactoryMethodPatternExample  
-10. Exercise-10-BuilderPatternExample  
-11. Exercise-11-AdapterPatternExample  
-12. Exercise-12-DecoratorPatternExample  
-13. Exercise-13-ProxyPatternExample  
-14. Exercise-14-ObserverPatternExample  
-15. Exercise-15-StrategyPatternExample  
-16. Exercise-16-CommandPatternExample  
-17. Exercise-17-MVCPatternExample  
-18. Exercise-18-DependencyInjectionExample  
+1. Exercise-8-SingletonPatternExample
+2. Exercise-9-FactoryMethodPatternExample
+3. Exercise-10-BuilderPatternExample
+4. Exercise-11-AdapterPatternExample
+5. Exercise-12-DecoratorPatternExample
+6. Exercise-13-ProxyPatternExample
+7. Exercise-14-ObserverPatternExample
+8. Exercise-15-StrategyPatternExample
+9. Exercise-16-CommandPatternExample
+10. Exercise-17-MVCPatternExample
+11. Exercise-18-DependencyInjectionExample
 
 ---
 
-### Spring Framework / Spring Boot
+### Week 2 – Spring Framework / Spring Boot
 
-19. Exercise-1-BasicSpringApplication  
-20. Exercise-2-SpringDependencyInjection  
-21. Exercise-3-SpringAOPLogging  
-22. Exercise-4-MavenConfiguration  
-23. Exercise-5-SpringIoCContainer  
-24. Exercise-6-AnnotationBasedConfiguration  
-25. Exercise-7-ConstructorSetterInjection  
-26. Exercise-8-BasicSpringAOP  
-27. Exercise-9-SpringBootLibraryManagement  
-28. Exercise-10-SpringDataJPAQuickExample  
-29. Exercise-12-SpringBootLibraryManagementSystem  
-
----
-
+1. Exercise-1-BasicSpringApplication
+2. Exercise-2-SpringDependencyInjection
+3. Exercise-3-SpringAOPLogging
+4. Exercise-4-MavenConfiguration
+5. Exercise-5-SpringIoCContainer
+6. Exercise-6-AnnotationBasedConfiguration
+7. Exercise-7-ConstructorSetterInjection
+8. Exercise-8-BasicSpringAOP
+9. Exercise-9-SpringBootLibraryManagement
+10. Exercise-10-SpringDataJPAQuickExample
+11. Exercise-11-SpringDataJPAQueryMethods
+12. Exercise-12-SpringBootLibraryManagementSystem
+___
 ## 🛠 Technologies Used
 
 - Java  
