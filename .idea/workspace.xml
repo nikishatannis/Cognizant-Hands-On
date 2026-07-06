@@ -2,53 +2,221 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="229420b5-81a0-42fa-9f71-f3b58dd4873c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/src/main/java/com/cognizant/EmployeeManagementSystemApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/src/main/java/entity/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/src/main/java/entity/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -2-Creating JPA Entities/src/test/java/com/cognizant/EmployeeManagementSystemApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/src/main/java/com/cognizant/EmployeeManagementSystemApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/src/main/java/entity/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/src/main/java/entity/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/src/main/java/repository/DepartmentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/src/main/java/repository/EmployeeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise -3 - Created JPA Repositories/src/test/java/com/cognizant/EmployeeManagementSystemApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/src/main/java/com/cognizant/EmployeeManagementSystemApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/src/main/java/controller/EmployeeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/src/main/java/entity/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/src/main/java/entity/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/src/main/java/repository/DepartmentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/src/main/java/repository/EmployeeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise 4: Implementing CRUD Operations/src/test/java/com/cognizant/EmployeeManagementSystemApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise-1-Employee Management System/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise-1-Employee Management System/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise-1-Employee Management System/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise-1-Employee Management System/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise-1-Employee Management System/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise-1-Employee Management System/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise-1-Employee Management System/src/main/java/com/cognizant/EmployeeManagementSystemApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise-1-Employee Management System/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate/Exercise-1-Employee Management System/src/test/java/com/cognizant/EmployeeManagementSystemApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 10: Global Exception Handling for Validation/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 10: Global Exception Handling for Validation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 10: Global Exception Handling for Validation/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 10: Global Exception Handling for Validation/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 10: Global Exception Handling for Validation/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 10: Global Exception Handling for Validation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 10: Global Exception Handling for Validation/src/main/java/controller/CountryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 10: Global Exception Handling for Validation/src/main/java/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 10: Global Exception Handling for Validation/src/main/java/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 10: Global Exception Handling for Validation/src/main/java/exception/CountryNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 10: Global Exception Handling for Validation/src/main/java/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 10: Global Exception Handling for Validation/src/main/java/model/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 10: Global Exception Handling for Validation/src/main/java/model/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 10: Global Exception Handling for Validation/src/main/java/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 10: Global Exception Handling for Validation/src/main/java/service/CountryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 10: Global Exception Handling for Validation/src/main/java/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 10: Global Exception Handling for Validation/src/main/java/spring_learn/SpringLearnApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 10: Global Exception Handling for Validation/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 10: Global Exception Handling for Validation/src/main/resources/country.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 10: Global Exception Handling for Validation/src/test/java/spring_learn/CountryControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 10: Global Exception Handling for Validation/src/test/java/spring_learn/SpringLearnApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 11:  Employee REST PUT &amp; DELETE/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 11:  Employee REST PUT &amp; DELETE/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 11:  Employee REST PUT &amp; DELETE/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 11:  Employee REST PUT &amp; DELETE/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 11:  Employee REST PUT &amp; DELETE/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 11:  Employee REST PUT &amp; DELETE/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 11:  Employee REST PUT &amp; DELETE/src/main/java/controller/CountryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 11:  Employee REST PUT &amp; DELETE/src/main/java/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 11:  Employee REST PUT &amp; DELETE/src/main/java/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 11:  Employee REST PUT &amp; DELETE/src/main/java/exception/CountryNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 11:  Employee REST PUT &amp; DELETE/src/main/java/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 11:  Employee REST PUT &amp; DELETE/src/main/java/model/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 11:  Employee REST PUT &amp; DELETE/src/main/java/model/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 11:  Employee REST PUT &amp; DELETE/src/main/java/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 11:  Employee REST PUT &amp; DELETE/src/main/java/service/CountryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 11:  Employee REST PUT &amp; DELETE/src/main/java/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 11:  Employee REST PUT &amp; DELETE/src/main/java/spring_learn/SpringLearnApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 11:  Employee REST PUT &amp; DELETE/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 11:  Employee REST PUT &amp; DELETE/src/main/resources/country.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 11:  Employee REST PUT &amp; DELETE/src/test/java/spring_learn/CountryControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 11:  Employee REST PUT &amp; DELETE/src/test/java/spring_learn/SpringLearnApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/src/main/java/controller/CountryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/src/main/java/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/src/main/java/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/src/main/java/exception/CountryNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/src/main/java/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/src/main/java/model/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/src/main/java/model/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/src/main/java/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/src/main/java/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/src/main/java/service/CountryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/src/main/java/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/src/main/java/spring_learn/SpringLearnApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/src/main/resources/country.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/src/test/java/spring_learn/CountryControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 12: Spring Security Basic Authentication/src/test/java/spring_learn/SpringLearnApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/src/main/java/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/src/main/java/controller/CountryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/src/main/java/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/src/main/java/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/src/main/java/exception/CountryNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/src/main/java/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/src/main/java/model/AuthRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/src/main/java/model/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/src/main/java/model/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/src/main/java/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/src/main/java/security/JwtUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/src/main/java/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/src/main/java/service/CountryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/src/main/java/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/src/main/java/spring_learn/SpringLearnApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/src/main/resources/country.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/src/test/java/spring_learn/CountryControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 13: JWT Authentication/src/test/java/spring_learn/SpringLearnApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 2: HelloWorldRESTService/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 2: HelloWorldRESTService/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 2: HelloWorldRESTService/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 2: HelloWorldRESTService/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 2: HelloWorldRESTService/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 2: HelloWorldRESTService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 2: HelloWorldRESTService/src/main/java/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 2: HelloWorldRESTService/src/main/java/spring_learn/SpringLearnApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 2: HelloWorldRESTService/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 2: HelloWorldRESTService/src/test/java/spring_learn/SpringLearnApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 3: CountryRESTService/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 3: CountryRESTService/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 3: CountryRESTService/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 3: CountryRESTService/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 3: CountryRESTService/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 3: CountryRESTService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 3: CountryRESTService/src/main/java/controller/CountryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 3: CountryRESTService/src/main/java/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 3: CountryRESTService/src/main/java/model/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 3: CountryRESTService/src/main/java/spring_learn/SpringLearnApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 3: CountryRESTService/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 3: CountryRESTService/src/main/resources/country.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 3: CountryRESTService/src/test/java/spring_learn/SpringLearnApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 4: Get All Countries/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 4: Get All Countries/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 4: Get All Countries/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 4: Get All Countries/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 4: Get All Countries/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 4: Get All Countries/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 4: Get All Countries/src/main/java/controller/CountryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 4: Get All Countries/src/main/java/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 4: Get All Countries/src/main/java/model/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 4: Get All Countries/src/main/java/service/CountryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 4: Get All Countries/src/main/java/spring_learn/SpringLearnApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 4: Get All Countries/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 4: Get All Countries/src/main/resources/country.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 4: Get All Countries/src/test/java/spring_learn/SpringLearnApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 5: Get Country By Code/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 5: Get Country By Code/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 5: Get Country By Code/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 5: Get Country By Code/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 5: Get Country By Code/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 5: Get Country By Code/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 5: Get Country By Code/src/main/java/controller/CountryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 5: Get Country By Code/src/main/java/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 5: Get Country By Code/src/main/java/model/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 5: Get Country By Code/src/main/java/service/CountryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 5: Get Country By Code/src/main/java/spring_learn/SpringLearnApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 5: Get Country By Code/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 5: Get Country By Code/src/main/resources/country.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 5: Get Country By Code/src/test/java/spring_learn/SpringLearnApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 6: Country Exception Handling/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 6: Country Exception Handling/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 6: Country Exception Handling/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 6: Country Exception Handling/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 6: Country Exception Handling/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 6: Country Exception Handling/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 6: Country Exception Handling/src/main/java/controller/CountryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 6: Country Exception Handling/src/main/java/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 6: Country Exception Handling/src/main/java/exception/CountryNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 6: Country Exception Handling/src/main/java/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 6: Country Exception Handling/src/main/java/model/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 6: Country Exception Handling/src/main/java/service/CountryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 6: Country Exception Handling/src/main/java/spring_learn/SpringLearnApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 6: Country Exception Handling/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 6: Country Exception Handling/src/main/resources/country.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 6: Country Exception Handling/src/test/java/spring_learn/SpringLearnApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 7: MockMvc Testing/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 7: MockMvc Testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 7: MockMvc Testing/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 7: MockMvc Testing/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 7: MockMvc Testing/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 7: MockMvc Testing/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 7: MockMvc Testing/src/main/java/controller/CountryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 7: MockMvc Testing/src/main/java/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 7: MockMvc Testing/src/main/java/exception/CountryNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 7: MockMvc Testing/src/main/java/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 7: MockMvc Testing/src/main/java/model/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 7: MockMvc Testing/src/main/java/service/CountryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 7: MockMvc Testing/src/main/java/spring_learn/SpringLearnApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 7: MockMvc Testing/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 7: MockMvc Testing/src/main/resources/country.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 7: MockMvc Testing/src/test/java/spring_learn/CountryControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 7: MockMvc Testing/src/test/java/spring_learn/SpringLearnApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 8: Employee Department REST Service/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 8: Employee Department REST Service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 8: Employee Department REST Service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 8: Employee Department REST Service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 8: Employee Department REST Service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 8: Employee Department REST Service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 8: Employee Department REST Service/src/main/java/controller/CountryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 8: Employee Department REST Service/src/main/java/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 8: Employee Department REST Service/src/main/java/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 8: Employee Department REST Service/src/main/java/exception/CountryNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 8: Employee Department REST Service/src/main/java/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 8: Employee Department REST Service/src/main/java/model/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 8: Employee Department REST Service/src/main/java/model/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 8: Employee Department REST Service/src/main/java/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 8: Employee Department REST Service/src/main/java/service/CountryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 8: Employee Department REST Service/src/main/java/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 8: Employee Department REST Service/src/main/java/spring_learn/SpringLearnApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 8: Employee Department REST Service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 8: Employee Department REST Service/src/main/resources/country.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 8: Employee Department REST Service/src/test/java/spring_learn/CountryControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 8: Employee Department REST Service/src/test/java/spring_learn/SpringLearnApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 9: REST POST with Validation/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 9: REST POST with Validation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 9: REST POST with Validation/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 9: REST POST with Validation/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 9: REST POST with Validation/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 9: REST POST with Validation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 9: REST POST with Validation/src/main/java/controller/CountryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 9: REST POST with Validation/src/main/java/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 9: REST POST with Validation/src/main/java/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 9: REST POST with Validation/src/main/java/exception/CountryNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 9: REST POST with Validation/src/main/java/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 9: REST POST with Validation/src/main/java/model/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 9: REST POST with Validation/src/main/java/model/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 9: REST POST with Validation/src/main/java/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 9: REST POST with Validation/src/main/java/service/CountryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 9: REST POST with Validation/src/main/java/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 9: REST POST with Validation/src/main/java/spring_learn/SpringLearnApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 9: REST POST with Validation/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 9: REST POST with Validation/src/main/resources/country.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 9: REST POST with Validation/src/test/java/spring_learn/CountryControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES/Exercise 9: REST POST with Validation/src/test/java/spring_learn/SpringLearnApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +252,7 @@
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/p.edwardnixon/IdeaProjects/Cognizant-Hands-On-1/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/p.edwardnixon/IdeaProjects/Cognizant-Hands-On-1/WEEK 3 HANDS ON EXERCISES&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/p.edwardnixon/IdeaProjects/Cognizant-Hands-On/Exercise-18-DependencyInjectionExample/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
@@ -94,11 +262,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WEEK 3 HANDS ON EXERCISES" />
       <recent name="$PROJECT_DIR$/WEEK 2 HANDS ON EXERCISES/Spring Data JPA and Hibernate" />
       <recent name="$PROJECT_DIR$/Exercise-6-LibraryManagementSystem" />
       <recent name="$PROJECT_DIR$/Exercise-2-SearchAlgorithms" />
       <recent name="$PROJECT_DIR$/Exercise-3-SortingCustomerOrders" />
-      <recent name="$PROJECT_DIR$/Exercise-1-InventoryManagement" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main (5)">
