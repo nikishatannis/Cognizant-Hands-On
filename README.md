@@ -61,6 +61,24 @@ This repository contains Java-based hands-on exercises covering Data Structures 
 11. Exercise-11-SpringDataJPAQueryMethods
 12. Exercise-12-SpringBootLibraryManagementSystem
 ___
+
+### Week 3 – Spring RESTful Web Services
+
+20. Exercise-1-HTTPRequestResponse
+21. Exercise-2-HelloWorldRESTService
+22. Exercise-3-CountryRESTService
+23. Exercise-4-GetAllCountries
+24. Exercise-5-GetCountryByCode
+25. Exercise-6-CountryExceptionHandling
+26. Exercise-7-MockMvcTesting
+27. Exercise-8-EmployeeDepartmentRESTService
+28. Exercise-9-RESTPostValidation
+29. Exercise-10-GlobalExceptionHandling
+30. Exercise-11-EmployeeRESTPutDelete
+31. Exercise-12-SpringSecurityBasicAuthentication
+32. Exercise-13-JWTAuthentication
+
+---
 ## 🛠 Technologies Used
 
 - Java  
@@ -100,6 +118,26 @@ ___
 - Command Pattern  
 - MVC Pattern  
 - Dependency Injection  
+
+---
+### Spring RESTful Web Services
+
+- HTTP Request & Response
+- REST Architecture
+- REST Controllers
+- GET, POST, PUT & DELETE APIs
+- Request Mapping
+- Path Variables
+- Request Body
+- JSON Serialization & Deserialization
+- Bean Validation
+- Global Exception Handling
+- MockMvc Testing
+- Spring Security
+- Basic Authentication
+- JWT Authentication
+- Employee & Department REST APIs
+- Postman & cURL Testing
 
 ---
 
