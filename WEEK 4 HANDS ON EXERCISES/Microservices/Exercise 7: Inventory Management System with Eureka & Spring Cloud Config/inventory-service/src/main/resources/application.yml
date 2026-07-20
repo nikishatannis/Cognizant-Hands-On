@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: inventory-service
+
+  cloud:
+    config:
+      enabled: false
+
+server:
+  port: 8082
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+        resilience4j:
+          circuitbreaker:
+            instances:
+              productService:
+                sliding-window-size: 5
+                failure-rate-threshold: 50
+                wait-duration-in-open-state: 10s
