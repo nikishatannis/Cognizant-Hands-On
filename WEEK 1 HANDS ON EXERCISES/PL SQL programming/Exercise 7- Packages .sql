@@ -1,0 +1,1 @@
+SELECT GetCustomerBalance(4) AS Balance;

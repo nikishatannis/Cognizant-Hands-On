@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Exercise 2 Writing Basic JUnit Tests"
+		},
+		{
+			"path": "../Exercise 3 Assertions in JUnit"
+		},
+		{
+			"path": "../Exercise 4 Arrange Act Assert"
+		}
+	]
+}
