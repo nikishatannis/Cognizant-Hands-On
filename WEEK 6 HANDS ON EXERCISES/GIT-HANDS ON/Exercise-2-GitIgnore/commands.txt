@@ -1,0 +1,8 @@
+echo "log" > test.log
+mkdir log_folder
+echo "log inside folder" > log_folder/test.log
+echo "*.log" >> .gitignore
+echo "log_folder/" >> .gitignore
+git add .gitignore
+git commit -m "Update gitignore for log files and log folders"
+git status
