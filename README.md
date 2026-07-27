@@ -1,182 +1,241 @@
 # Cognizant Hands-On Exercises
 
-This repository contains Java-based hands-on exercises covering Data Structures and Algorithms (DSA), Design Patterns, Spring Framework / Spring Boot, and PL/SQL programs. These exercises were implemented as part of the Cognizant training program.
+This repository contains my solutions for the **Cognizant Digital Nurture 5.0** hands-on exercises. The exercises cover PL/SQL, Data Structures & Algorithms, Design Patterns, Spring Framework, Spring Boot, Spring RESTful Web Services, Microservices, and Angular.
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
-### Week 1 – PL/SQL Programming
+## 📌 Week 1 – PL/SQL, Data Structures & Algorithms & Design Patterns
 
-1. Exercise-1-ControlStructures
-2. Exercise-2-ErrorHandling
-3. Exercise-3-StoredProcedures
-4. Exercise-4-Functions
-5. Exercise-5-Triggers
-6. Exercise-6-Cursors
-7. Exercise-7-Packages
+### PL/SQL Programming
+1. Exercise 1 – Control Structures
+2. Exercise 2 – Error Handling
+3. Exercise 3 – Stored Procedures
+4. Exercise 4 – Functions
+5. Exercise 5 – Triggers
+6. Exercise 6 – Cursors
+7. Exercise 7 – Packages
 
----
-
-### Data Structures and Algorithms
-
-1. Exercise-1-InventoryManagement
-2. Exercise-2-SearchAlgorithms
-3. Exercise-3-SortingCustomerOrders
-4. Exercise-4-EmployeeManagementSystem
-5. Exercise-5-TaskManagementSystem
-6. Exercise-6-LibraryManagementSystem
-7. Exercise-7-FinancialForecasting
-
----
+### Data Structures & Algorithms
+1. Inventory Management
+2. Search Algorithms
+3. Sorting Customer Orders
+4. Employee Management System
+5. Task Management System
+6. Library Management System
+7. Financial Forecasting
 
 ### Design Patterns
-
-1. Exercise-8-SingletonPatternExample
-2. Exercise-9-FactoryMethodPatternExample
-3. Exercise-10-BuilderPatternExample
-4. Exercise-11-AdapterPatternExample
-5. Exercise-12-DecoratorPatternExample
-6. Exercise-13-ProxyPatternExample
-7. Exercise-14-ObserverPatternExample
-8. Exercise-15-StrategyPatternExample
-9. Exercise-16-CommandPatternExample
-10. Exercise-17-MVCPatternExample
-11. Exercise-18-DependencyInjectionExample
-
----
-
-### Week 2 – Spring Framework / Spring Boot
-
-1. Exercise-1-BasicSpringApplication
-2. Exercise-2-SpringDependencyInjection
-3. Exercise-3-SpringAOPLogging
-4. Exercise-4-MavenConfiguration
-5. Exercise-5-SpringIoCContainer
-6. Exercise-6-AnnotationBasedConfiguration
-7. Exercise-7-ConstructorSetterInjection
-8. Exercise-8-BasicSpringAOP
-9. Exercise-9-SpringBootLibraryManagement
-10. Exercise-10-SpringDataJPAQuickExample
-11. Exercise-11-SpringDataJPAQueryMethods
-12. Exercise-12-SpringBootLibraryManagementSystem
-___
-
-### Week 3 – Spring RESTful Web Services
-
-20. Exercise-1-HTTPRequestResponse
-21. Exercise-2-HelloWorldRESTService
-22. Exercise-3-CountryRESTService
-23. Exercise-4-GetAllCountries
-24. Exercise-5-GetCountryByCode
-25. Exercise-6-CountryExceptionHandling
-26. Exercise-7-MockMvcTesting
-27. Exercise-8-EmployeeDepartmentRESTService
-28. Exercise-9-RESTPostValidation
-29. Exercise-10-GlobalExceptionHandling
-30. Exercise-11-EmployeeRESTPutDelete
-31. Exercise-12-SpringSecurityBasicAuthentication
-32. Exercise-13-JWTAuthentication
-
----
-## 🛠 Technologies Used
-
-- Java  
-- PL/SQL  
-- Spring Framework  
-- Spring Boot  
-- Spring Data JPA  
-- H2 Database  
-- Maven  
-- IntelliJ IDEA  
-- Git  
-- GitHub  
+1. Singleton Pattern
+2. Factory Method Pattern
+3. Builder Pattern
+4. Adapter Pattern
+5. Decorator Pattern
+6. Proxy Pattern
+7. Observer Pattern
+8. Strategy Pattern
+9. Command Pattern
+10. MVC Pattern
+11. Dependency Injection
 
 ---
 
-## 📚 Concepts Covered
+## 📌 Week 2 – Spring Framework & Spring Boot
 
-### Data Structures and Algorithms
-- Arrays  
-- Linked Lists  
-- Searching Algorithms  
-- Sorting Algorithms  
-- Recursion  
-- Time Complexity Analysis  
+1. Spring Core - Load Country from XML
+2. Spring Dependency Injection
+3. Spring AOP Logging
+4. Maven Configuration
+5. Spring IoC Container
+6. Annotation-Based Configuration
+7. Constructor & Setter Injection
+8. Spring AOP
+9. Spring Boot Basics
+10. Spring Data JPA Quick Example
+11. Spring Data JPA Query Methods
+12. Hibernate XML Configuration
+13. Hibernate Annotations
+14. One-to-One Mapping
+15. One-to-Many Mapping
+16. Many-to-Many Mapping
+17. CRUD Operations
+18. Custom Queries
+19. Paging & Sorting
+20. Validation
+
+---
+
+## 📌 Week 3 – Spring RESTful Web Services
+
+1. HTTP Request & Response
+2. Hello World REST Service
+3. Country REST Service
+4. Get All Countries
+5. Get Country by Code
+6. Exception Handling
+7. MockMvc Testing
+8. Employee & Department REST Service
+9. POST Request Validation
+10. Global Exception Handling
+11. PUT & DELETE Operations
+12. Spring Security – Basic Authentication
+13. JWT Authentication
 
 ---
 
-### Design Patterns
-- Singleton Pattern  
-- Factory Method Pattern  
-- Builder Pattern  
-- Adapter Pattern  
-- Decorator Pattern  
-- Proxy Pattern  
-- Observer Pattern  
-- Strategy Pattern  
-- Command Pattern  
-- MVC Pattern  
-- Dependency Injection  
+## 📌 Week 4 – Microservices
+
+1. User & Order Management System
+2. Inventory Management using Eureka & Config Server
+3. API Gateway using Spring Cloud Gateway
+4. Circuit Breaker using Resilience4j
+5. Distributed Configuration
+6. Service Discovery
+7. Inter-Service Communication
 
 ---
-### Spring RESTful Web Services
 
-- HTTP Request & Response
+## 📌 Week 5 – Angular
+
+1. Hands-On 1 – Angular Project Setup
+2. Hands-On 2 – Components
+3. Hands-On 3 – Data Binding
+4. Hands-On 4 – Services & Dependency Injection
+5. Hands-On 5 – Forms
+6. Hands-On 6 – HTTP Client
+7. Hands-On 7 – Routing & Guards
+
+---
+
+# 🛠️ Technologies Used
+
+- Java
+- PL/SQL
+- Spring Framework
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- Spring Security
+- JWT Authentication
+- Spring Cloud
+- Eureka Server
+- Spring Cloud Config
+- API Gateway
+- Resilience4j
+- Angular
+- TypeScript
+- HTML
+- CSS
+- Maven
+- H2 Database
+- MySQL
+- Git
+- GitHub
+- IntelliJ IDEA
+- VS Code
+
+---
+
+# 📚 Concepts Covered
+
+## PL/SQL
+- Control Structures
+- Error Handling
+- Stored Procedures
+- Functions
+- Triggers
+- Cursors
+- Packages
+
+## Data Structures & Algorithms
+- Arrays
+- Linked Lists
+- Searching
+- Sorting
+- Recursion
+- Time Complexity
+
+## Design Patterns
+- Singleton
+- Factory Method
+- Builder
+- Adapter
+- Decorator
+- Proxy
+- Observer
+- Strategy
+- Command
+- MVC
+- Dependency Injection
+
+## Spring Framework
+- IoC
+- Dependency Injection
+- Spring AOP
+- Bean Configuration
+- Spring MVC
+
+## Spring Boot
+- REST APIs
+- CRUD Operations
+- Spring Data JPA
+- Hibernate
+- Validation
+- H2 Database
+
+## Spring REST
 - REST Architecture
-- REST Controllers
-- GET, POST, PUT & DELETE APIs
+- HTTP Methods
 - Request Mapping
 - Path Variables
 - Request Body
-- JSON Serialization & Deserialization
-- Bean Validation
-- Global Exception Handling
-- MockMvc Testing
+- ResponseEntity
+- JSON
+- Exception Handling
+- MockMvc
 - Spring Security
 - Basic Authentication
 - JWT Authentication
-- Employee & Department REST APIs
-- Postman & cURL Testing
+
+## Microservices
+- Eureka Service Discovery
+- Spring Cloud Config
+- API Gateway
+- WebClient
+- OpenFeign
+- Circuit Breaker
+- Distributed Systems
+
+## Angular
+- Components
+- Templates
+- Routing
+- Services
+- Dependency Injection
+- Forms
+- HTTP Client
+- Guards
+- TypeScript
 
 ---
 
-### Spring Framework / Spring Boot
-- Inversion of Control (IoC)  
-- Dependency Injection (DI)  
-- Spring AOP  
-- Spring MVC  
-- Spring Boot REST APIs  
-- Spring Data JPA  
-- H2 In-Memory Database  
-- CRUD Operations  
+# 🚀 Repository
 
----
+**GitHub Repository**
 
-### PL/SQL Programming
-- Control Structures  
-- Error Handling  
-- Stored Procedures  
-- Functions  
-- Triggers  
-- Cursors  
-- Packages  
-
----
-
-## 🚀 Repository Link
-
-🔗 **GitHub Repository:**  
 https://github.com/nikishatannis/Cognizant-Hands-On
 
 ---
 
-## 👩‍💻 Author
+# 👩‍💻 Author
 
 **Nikisha Tannis E**
 
+B.Tech Information Technology
+
+St. Joseph's College of Engineering
+
 ---
 
-## 📌 License
-
-This repository is created for learning and training purposes.
+## ⭐ If you found this repository helpful, don't forget to star it!
