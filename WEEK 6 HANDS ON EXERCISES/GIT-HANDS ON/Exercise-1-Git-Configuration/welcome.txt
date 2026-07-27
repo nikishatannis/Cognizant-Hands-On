@@ -1,1 +1,10 @@
-Welcome to Git Hands-On
+git --version
+git config --global user.name "username"
+git config --global user.email "username@cognizant.com"
+git init GitDemo
+cd GitDemo
+echo "Welcome to the version control" > welcome.txt
+git status
+git add welcome.txt
+git commit -m "Added welcome text"
+git status
