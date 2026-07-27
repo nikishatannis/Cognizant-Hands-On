@@ -1,0 +1,13 @@
+<h2>Welcome {{ studentName }}</h2>
+
+<label>Student Name:</label>
+<input type="text" [(ngModel)]="studentName">
+
+<br><br>
+
+<app-course-card
+  [courseName]="course.name"
+  [instructor]="course.instructor"
+  [duration]="course.duration"
+  (enroll)="onEnroll($event)">
+</app-course-card>

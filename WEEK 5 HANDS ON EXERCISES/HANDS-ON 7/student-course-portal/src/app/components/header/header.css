@@ -1,0 +1,14 @@
+nav{
+    background:#1976d2;
+    padding:15px;
+}
+
+nav h2{
+    color:white;
+}
+
+nav a{
+    color:white;
+    margin-right:15px;
+    text-decoration:none;
+}

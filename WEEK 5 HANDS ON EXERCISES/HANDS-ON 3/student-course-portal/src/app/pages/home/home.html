@@ -1,0 +1,18 @@
+<h2>Welcome {{ studentName }}</h2>
+
+<p *ngIf="isEnrolled">
+  ✅ You are enrolled in this course.
+</p>
+
+<label>Student Name:</label>
+<input type="text" [(ngModel)]="studentName">
+
+<br><br>
+
+<app-course-card
+  *ngFor="let course of courses"
+  [courseName]="course.name"
+  [instructor]="course.instructor"
+  [duration]="course.duration"
+  (enroll)="onEnroll($event)">
+</app-course-card>

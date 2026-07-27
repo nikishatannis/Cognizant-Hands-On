@@ -1,0 +1,13 @@
+<div class="card" [ngClass]="{'popular': isPopular}">
+
+  <h3 [ngStyle]="{'color':'blue'}">
+  {{ courseName }}
+</h3>
+
+  <p><strong>Instructor:</strong> {{ instructor }}</p>
+
+  <p><strong>Duration:</strong> {{ duration }}</p>
+
+  <button (click)="enrollCourse()">Enroll</button>
+
+</div>
