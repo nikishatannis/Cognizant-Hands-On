@@ -108,6 +108,16 @@ This repository contains my solutions for the **Cognizant Digital Nurture 5.0** 
 
 ---
 
+## 📌 Week 6 – Git & GitHub
+
+1. Git Configuration
+2. Git Ignore (.gitignore)
+3. Branching & Merging
+4. Merge Conflict Resolution
+5. Clean Up & Push to Remote Repository
+
+---
+
 # 🛠️ Technologies Used
 
 - Java
@@ -134,7 +144,9 @@ This repository contains my solutions for the **Cognizant Digital Nurture 5.0** 
 - GitHub
 - IntelliJ IDEA
 - VS Code
-
+- Git
+- GitHub
+- Git Bash
 ---
 
 # 📚 Concepts Covered
@@ -217,7 +229,21 @@ This repository contains my solutions for the **Cognizant Digital Nurture 5.0** 
 - HTTP Client
 - Guards
 - TypeScript
+## Git & GitHub
 
+- Git Installation & Configuration
+- Git Repository Initialization
+- Git Status
+- Git Add & Commit
+- Git Ignore (.gitignore)
+- Branching
+- Merging
+- Merge Conflict Resolution
+- Git Log
+- Git Diff
+- Git Pull
+- Git Push
+- Remote Repository Management
 ---
 
 # 🚀 Repository
