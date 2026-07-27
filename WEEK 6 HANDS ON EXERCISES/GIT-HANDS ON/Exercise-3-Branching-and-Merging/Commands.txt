@@ -1,0 +1,9 @@
+git branch GitNewBranch
+git checkout GitNewBranch
+echo "new feature" > newfile.txt
+git add newfile.txt
+git commit -m "Add newfile.txt in GitNewBranch"
+git checkout master
+git merge GitNewBranch
+git branch -d GitNewBranch
+git status
