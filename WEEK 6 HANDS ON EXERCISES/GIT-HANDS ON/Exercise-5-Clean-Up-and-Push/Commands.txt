@@ -1,0 +1,8 @@
+git status
+git branch -a
+git pull origin master
+echo "Lab 1 changes" > lab1.txt
+git add lab1.txt
+git commit -m "Git-T03-HOL_002 changes"
+git push origin master
+git ls-remote origin
